@@ -13,3 +13,7 @@
 .textshadow{
     text-shadow: 2px 2px 2px 2px #000000 !important;
 }
+
+li {
+  text-align:center !important;
+}
