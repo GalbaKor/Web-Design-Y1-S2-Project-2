@@ -17,3 +17,7 @@
 li {
   text-align:center !important;
 }
+
+.word-wrap{
+  word-wrap: break-word !important;
+}
