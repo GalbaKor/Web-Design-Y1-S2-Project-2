@@ -26,3 +26,6 @@ li span {
 .hidebullet {
   list-style-type: none;
 }
+.word-wrap{
+  word-wrap: break-word !important;
+}
