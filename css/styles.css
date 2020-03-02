@@ -17,3 +17,12 @@
 li {
   text-align:center !important;
 }
+
+li span {
+  position: relative !important;
+  
+}
+
+.hidebullet {
+  list-style-type: none;
+}
